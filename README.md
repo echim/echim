@@ -2,7 +2,8 @@
 ### Hi there 👋 I'm George, a passionate web developer & automation engineer
 📍 Romania, living in Cluj-Napoca
 
-🔭 I’m currently working on a mobile [app](https://play.google.com/store/apps/details?id=ro.echim.grup10reparatii) for our 4x4 club.
+🔭 I’m currently working on a mobile [app](https://grup10reparatii.ro/login) for our 4x4 club.
+And on a story node editor - [check it out here](https://interactivestoriesplatform.com/original)
 
 ## I'm passionate about:
 
