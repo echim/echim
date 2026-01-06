@@ -10,5 +10,6 @@
 - :camping: Camping, Nature & Overlanding
 - :construction: [3d printing](https://www.printables.com/@GeorgeEchim_733986)
 
-[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=echim&count_private=true&hide=issues,contribs&show_icons=true&theme=github_dark)](https://github.com/echim)
+[![George's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=echim&theme=github-light)](https://github.com/echim)
+
 
